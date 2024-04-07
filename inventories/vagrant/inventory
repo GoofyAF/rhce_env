@@ -1,0 +1,12 @@
+[workstations]
+workstation.lab.example.com
+
+[utilities]
+utility.lab.example.com
+
+
+[servers]
+servera.lab.example.com
+serverb.lab.example.com
+serverc.lab.example.com
+serverd.lab.example.com
